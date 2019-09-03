@@ -39,6 +39,10 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+  assets:
+    - images/cover.png
+    - images/cover1.png
+    - images/cover2.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:
