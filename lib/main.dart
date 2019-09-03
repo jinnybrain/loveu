@@ -168,11 +168,11 @@ class _MyHomePageState extends State<MyHomePage> {
                 child: Column(
                   children: [
                     Container(
-                      height: 100,
+                      height: 70,
                       child: Image.asset(
                         'images/cover1.png',
                         width: 600,
-                        height: 100,
+                        height: 70,
                         fit: BoxFit.cover,
                       ),
                     ),
@@ -210,11 +210,11 @@ class _MyHomePageState extends State<MyHomePage> {
                       ),
                     ),
                     Container(
-                      height: 100,
+                      height: 70,
                       child: Image.asset(
                         'images/cover2.png',
                         width: 600,
-                        height: 100,
+                        height: 70,
                         fit: BoxFit.cover,
                       ),
                     ),
